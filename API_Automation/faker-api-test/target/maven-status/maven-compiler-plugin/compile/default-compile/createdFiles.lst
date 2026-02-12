@@ -1,0 +1,4 @@
+com\automation\model\PersonData.class
+com\automation\App.class
+com\automation\controller\PersonController.class
+com\automation\model\PersonResponse.class
